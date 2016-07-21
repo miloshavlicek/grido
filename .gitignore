@@ -1,4 +1,6 @@
 /vendor
 /composer.lock
-/tests/Grido/tmp
-tests/*/*/output
+/tests/tmp
+/tests/*/output
+coverage.xml
+node_modules/
